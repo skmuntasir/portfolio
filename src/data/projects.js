@@ -6,7 +6,7 @@ export const projects = [
       'A full-stack fitness tracking platform for logging workouts, monitoring progress, and managing training plans, with a REST API backing a responsive React dashboard.',
     stack: ['React', 'Flask', 'MongoDB', 'Tailwind CSS'],
     github: 'https://github.com/skmuntasir/aivo-fitness-tracker',
-    live: 'https://aivo-fitness-tracker.vercel.app',
+    live: 'https://aivo-ai-fitness-tracker.vercel.app',
     image: null,
   },
   {
@@ -16,7 +16,7 @@ export const projects = [
       'An end-to-end restaurant operations system covering menu management, orders, and table/reservation workflows through a clean, role-based interface.',
     stack: ['React', 'Flask', 'MongoDB', 'Tailwind CSS'],
     github: 'https://github.com/skmuntasir/restaurant-management',
-    live: 'https://restaurant-management-ten-gamma.vercel.app',
+    live: 'https://restro-sktasrian.vercel.app',
     image: null,
   },
   {
