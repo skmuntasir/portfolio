@@ -7,7 +7,7 @@ export const projects = [
     stack: ['React', 'Flask', 'MongoDB', 'Tailwind CSS'],
     github: 'https://github.com/skmuntasir/aivo-fitness-tracker',
     live: 'https://aivo-ai-fitness-tracker.vercel.app',
-    image: null,
+    image: '/aivo-fitness.png',
   },
   {
     id: 'restaurant',
@@ -17,7 +17,7 @@ export const projects = [
     stack: ['React', 'Flask', 'MongoDB', 'Tailwind CSS'],
     github: 'https://github.com/skmuntasir/restaurant-management',
     live: 'https://restro-sktasrian.vercel.app',
-    image: null,
+    image: '/restaurant-management.png',
   },
   {
     id: 'tree',
