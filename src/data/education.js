@@ -2,8 +2,8 @@ export const education = [
   {
     school: 'BRAC University',
     degree: 'Bachelor of Science in Computer Science',
-    period: 'Expected Graduation: 2026',
-    detail: null,
+    period: null,
+    detail: 'CGPA: 3.01 / 4.00',
   },
   {
     school: 'Cantonment English School and College',
